@@ -7,4 +7,4 @@
 - 💞️ DESARROLLO DE SOFTWARE(Backend and Frontend). Tecnologias varias: C++, JAVA, Python. Incorporando conocimientos en frontend(estructura, diseño, logica).
 - No solo me enfoco en el desarrollo tecnico sino tambien en las habilidades blandas de comunicacion hacia los demas ya que es un proceso fundamental para que un tercero entienda el mensaje que se quiera transmitir.
 
---->
+
