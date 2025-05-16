@@ -4,7 +4,7 @@
   
 - 🌱 Algoritmos y estructura de datos, POO, Base de datos relacionales, Funcionamiento de arquitectura de software, Metodologias agiles(SCRUM).
 - Interesado a futuro en IA, machine learning ya que estos estan basados en conceptos matematicos.
-- 💞️ DESARROLLO DE SOFTWARE(Backend and Frontend). Tecnologias varias: C++, JAVA, Python. Incorporando conocimientos en frontend(estructura, diseño, logica).
+- 💞️ DESARROLLO DE SOFTWARE- FULL STACK(Backend and Frontend). Tecnologias varias: C++, JAVA, Python. Incorporando conocimientos en frontend(estructura, diseño, logica).
 - No solo me enfoco en el desarrollo tecnico sino tambien en las habilidades blandas de comunicacion hacia los demas ya que es un proceso fundamental para que un tercero entienda el mensaje que se quiera transmitir.
 
 
